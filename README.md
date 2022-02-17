@@ -1,6 +1,6 @@
 # Percentage_Calculator
 
-I Decided To Learn AHK GUI So I Took This Simple Project By Recreating This Online Web Based Tool[https://percentcalc.com/] to Offline Tool,
+I Decided To Learn AHK GUI So I Took This Simple Project By Recreating This Online Web Based Tool[https://percentcalc.com/] to Light Weight Offline Tool,
 
 Percentage_Calculator is the fast and interactive program which help to solve different problems with percent's, its a Great Experience to Learn AHK GUI
 
